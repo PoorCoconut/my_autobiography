@@ -71,13 +71,13 @@ with tab1:
 
 with tab2:
     st.subheader("Void Vanguard")
-    st.markdown("**Role:** Lead Programmer | **Tools:** Godot Engine, GDScript")
+    st.markdown("**Role:** Solo Developer | **Tools:** Godot Engine, GDScript")
     st.write("Dispel The Void in this Asteroids-like arcade inspired game!")
     st.link_button("Try Me!", 'https://poorcoco.itch.io/void-vanguard')
 
 with tab3:
     st.subheader("Terminal Friction")
-    st.markdown("**Role:** Developer & Designer | **Tools:** Godot Engine")
+    st.markdown("**Role:** Solo Developer | **Tools:** Godot Engine")
     st.write("Do you hate yourself and have time to waste? Try to slide to the top of a long tower designed to frustrate you.")
     st.link_button("Try Me!", 'https://poorcoco.itch.io/terminal-friction')
 
